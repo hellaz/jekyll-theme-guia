@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /setup/codelists/
+permalink: /mediacms/codelists/
 pagination: 
   enabled: true
   permalink: /:num/

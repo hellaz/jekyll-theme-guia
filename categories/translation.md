@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /setup/translation/
+permalink: /mediacms/translation/
 pagination: 
   enabled: true
   permalink: /:num/

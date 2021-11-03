@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /setup/content/
+permalink: /mediacms/content/
 pagination: 
   enabled: true
   permalink: /:num/
