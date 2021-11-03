@@ -16,7 +16,11 @@ right:
       - title: Post Style
         url: /changelog-posts/
 
-    
+      - title: Home
+        url: https://mediacms.go2core.ai
+
+
+
   # - title: Changelog
   #   url: /contact/
   #   button: default
