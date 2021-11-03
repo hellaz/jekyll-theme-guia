@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Guia
-description:        Customer helpdesk Jekyll theme.
+title:              MediaCMS
+description:        Documentation and Helpdesk
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -23,7 +23,7 @@ logo:
   
 # Default author settings
 author:
-    name:           Pete Seth
+    name:           Brijesh Kumar
     title:          Lead Developer  
     avatar:         https://via.placeholder.com/80x80
 
@@ -77,14 +77,14 @@ share:
     facebook:       true # Enable by setting true (Facebook handle not required)
 
 header:
-  image: https://via.placeholder.com/1728x600
+  image: /_site/uploads/header.jpg
   # background: "rgba(0, 0, 0, 0.5)"
   color: light
   search: true
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Antigua, Guatemala.
+    copyright:      Deployed by <a href="https://dmi.systems">DMI Systems</a> in Madanapalle, India.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
