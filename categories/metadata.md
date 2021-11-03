@@ -1,13 +1,13 @@
 ---
 layout: category
-permalink: /mediacms/metadata/
+permalink: /setup/content/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - mediacms
-      - metadata
+      - setup
+      - content
     matching: all
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /mediacms/features/
+permalink: /setup/features/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - mediacms
+      - setup
       - features
     matching: all
 ---

@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /chapters/splitter/
+permalink: /chapters/help/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - chapterization
-      - splitter
+      - customization
+      - help
     matching: all
 ---

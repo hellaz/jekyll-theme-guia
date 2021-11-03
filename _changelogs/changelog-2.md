@@ -1,17 +1,14 @@
 ---
-title: 🚀 November Updates
-date: 2021-11-03
+title: 🚧 January Updates v1.0.5
+date: 2019-01-17
 ---
 
-November comes with a whole bunch of updates across our stack, the main focus for this month in regards to what was released is around:
-
-Further improving system: Improvements to our app to give the team more control.
+Create your own labels, set text and color:
 
 {% include tag.html tag="added" %}
-- Fixed the issue of sorting codelists.
-- We now prioritize keywords so users can more effectively influence search results.
-- More updates to come during November 2021.
-
+{% include tag.html tag="changed" %}
+{% include tag.html tag="deprecated" %}
+{% include tag.html tag="removed" %}
 {% include tag.html tag="fixed" %}
-- Fixed up issues with respect to chapterization and splitting the videos.
-
+{% include tag.html tag="security" %}
+{% include tag.html tag="unreleased" %}
