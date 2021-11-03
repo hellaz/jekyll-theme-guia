@@ -7,8 +7,11 @@ right:
   - title: Home
     url: /
 
-   - title: MediaCMS App
-  url: https://mediacms.go2core.ai   
+   - title: App
+    dropdown:
+
+      - title: MediaCMS App
+        url: https://mediacms.go2core.ai   
 
   - title: Changelogs
     dropdown:
@@ -18,9 +21,6 @@ right:
 
       - title: Post Style
         url: /changelog-posts/
-
-
-
 
 
   # - title: Changelog
