@@ -37,27 +37,12 @@ authors:
       name:         Evan Wells
       title:        Support    
       avatar:       https://via.placeholder.com/80x80
-    sara:
-      name:         Sara Galen
-      title:        Lead Developer     
-      avatar:       https://via.placeholder.com/80x80
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer     
-      avatar:       https://via.placeholder.com/80x80
-    daniel:
-      name:         Daniel Shultz
-      title:        Developer      
-      avatar:       https://via.placeholder.com/80x80
-    tom:
-      name:         Tom Farrell
-      title:        Developer     
-      avatar:       https://via.placeholder.com/80x80
+ 
 
 # Social icons displayed in footer
 social:
-    email:
-    website:
+    email:          docbrij@gmail.com
+    website:        https://mediacms.go2core.ai/
     facebook:       https://www.facebook.com/
     flickr:
     dribbble:
@@ -80,7 +65,7 @@ header:
   image: https://mediacms-docs.netlify.app/header.jpg
   # background: "rgba(0, 0, 0, 0.5)"
   color: light
-  search: true
+  search: false
 
 # Default footer image settings
 footer:
