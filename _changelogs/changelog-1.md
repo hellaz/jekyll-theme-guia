@@ -1,15 +1,15 @@
 ---
-title: November Update
-date: 2018-11-11
+title: October Updates
+date: 2021-10-30
 ---
 
-{% include tag.html tag="fixed" %}
+October 2021 updates across our stack, the main focus for this month in regards to what was released is around:
 
-```html
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+{% include tag.html tag="changed" %}
+- Requirement analysis authored.
+- Design features planned.
+- Naming conventions tested.
+- Search engine upgraded. Bringing with it enhancements and bug fixes.
+- Replaced login / registration pre-app screens with a cleaner design.
+
+
