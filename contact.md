@@ -6,10 +6,8 @@ Theme includes integration for two popular contact form providers Formspree and 
 
 ### Formspree Contact Form
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+{% include formspree.html email="docbrij@gmail.com" redirect="/thanks/" name="true" subject="true" %}
 
 <br>
 
-### Kwes Contact Form
 
-{% include kwes.html key="00000" redirect="/thanks/" name="true" subject="true" %}

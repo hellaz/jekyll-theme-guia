@@ -15,7 +15,7 @@
       icon: file-text
 
     - permalink: /setup/features/
-      title: Theme Features
+      title: Features
       desc: Lean about all the features and how to use them
       icon: settings
 
@@ -34,7 +34,7 @@
       desc: Interactively engage professional total linkage whereas enterprise catalysts
       icon: code
 
-    - permalink: /chapters/help/
-      title: Sources & Help
+    - permalink: /chapters/splitter/
+      title: Video Splitter
       desc: Interactively engage professional total linkage whereas enterprise catalysts
       icon: question
