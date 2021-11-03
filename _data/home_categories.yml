@@ -4,19 +4,19 @@
   category: setup
   categories:
 
-    - permalink: /setup/basics/
+    - permalink: /setup/codelists/
       title: Codelists
       desc: A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology.
       icon: cog
 
-    - permalink: /setup/content/
-      title: Managing Content
+    - permalink: /setup/metadata/
+      title: Media Metadata
       desc: Get help or tailor the theme to your specific requirements
       icon: file-text
 
     - permalink: /setup/features/
       title: Theme Features
-      desc: Lean about all the theme options, features and how to use them
+      desc: Lean about all the features and how to use them
       icon: settings
 
     - permalink: /setup/translation/
@@ -24,17 +24,17 @@
       desc: Lean about all the theme options, features and how to use them
       icon: settings
       
-- title: Customization
+- title: Chapterization
   subtitle:
-  category: customization
+  category: chapters
   categories:
 
-    - permalink: /customization/development/
+    - permalink: /chapters/development/
       title: Development
       desc: Interactively engage professional total linkage whereas enterprise catalysts
       icon: code
 
-    - permalink: /customization/help/
+    - permalink: /chapters/help/
       title: Sources & Help
       desc: Interactively engage professional total linkage whereas enterprise catalysts
       icon: question
