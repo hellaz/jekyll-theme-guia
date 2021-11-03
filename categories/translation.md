@@ -1,12 +1,12 @@
 ---
 layout: category
-permalink: /setup/translation/
+permalink: /mediacms/translation/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - setup
+      - mediacms
       - translation
     matching: all
 ---

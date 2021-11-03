@@ -14,12 +14,11 @@ right:
   - title: Changelogs
     dropdown:
 
-      - title: Timeline Style
+      - title: Changelog Timeline
         url: /changelog-timeline/
 
-      - title: Post Style
+      - title: Changelog Post
         url: /changelog-posts/
-
 
   # - title: Changelog
   #   url: /contact/

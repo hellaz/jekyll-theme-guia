@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - customization
-      - help
+      - chapterization
+      - splitter
     matching: all
 ---

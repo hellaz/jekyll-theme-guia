@@ -1,13 +1,13 @@
 ---
 layout: category
-permalink: /setup/codelists/
+permalink: /mediacms/codelists/
 pagination: 
   enabled: true
   permalink: /:num/
   categories:
     values:
-      - setup
-      - basics
+      - mediacms
+      - chapters
     matching: all
   # sort_field: 'title'
   # sort_reverse: false

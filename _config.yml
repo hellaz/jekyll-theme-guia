@@ -25,18 +25,18 @@ logo:
 author:
     name:           Brijesh Kumar
     title:          Project Manager  
-    avatar:         https://via.placeholder.com/80x80
+    avatar:         
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     john:
       name:         Brijesh
       title:        Project Manager     
-      avatar:       https://via.placeholder.com/80x80
+      avatar:       
     evan:
       name:         Mangal
       title:        Tech Lead    
-      avatar:       https://via.placeholder.com/80x80
+      avatar:       
  
 
 # Social icons displayed in footer

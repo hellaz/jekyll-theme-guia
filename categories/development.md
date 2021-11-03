@@ -6,7 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - customization
+      - chapterization
       - development
     matching: all
 ---

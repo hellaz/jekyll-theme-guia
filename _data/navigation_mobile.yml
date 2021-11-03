@@ -3,5 +3,8 @@
 - title: Home
   url: /
 
+  - title: MediaCMS App
+    url: https://mediacms.go2core.ai/
+
 - title: Changelog
   url: /changelog-timeline/
