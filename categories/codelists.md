@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /setup/basics/
+permalink: /setup/codelists/
 pagination: 
   enabled: true
   permalink: /:num/

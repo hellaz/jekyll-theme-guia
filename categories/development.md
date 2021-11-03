@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /customization/development/
+permalink: /chapters/development/
 pagination: 
   enabled: true
   permalink: /:num/

@@ -5,8 +5,8 @@
   categories:
 
     - permalink: /setup/basics/
-      title: Basic Setup
-      desc: Get started fast with installation and theme setup instructions
+      title: Codelists
+      desc: A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology.
       icon: cog
 
     - permalink: /setup/content/

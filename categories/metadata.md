@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /setup/content/
+permalink: /setup/metadata/
 pagination: 
   enabled: true
   permalink: /:num/

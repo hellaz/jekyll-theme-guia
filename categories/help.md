@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /customization/help/
+permalink: /chapters/help/
 pagination: 
   enabled: true
   permalink: /:num/
