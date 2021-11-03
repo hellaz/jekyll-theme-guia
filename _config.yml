@@ -24,18 +24,18 @@ logo:
 # Default author settings
 author:
     name:           Brijesh Kumar
-    title:          Lead Developer  
+    title:          Project Manager  
     avatar:         https://via.placeholder.com/80x80
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     john:
-      name:         John Brown
-      title:        Support     
+      name:         Brijesh
+      title:        Project Manager     
       avatar:       https://via.placeholder.com/80x80
     evan:
-      name:         Evan Wells
-      title:        Support    
+      name:         Mangal
+      title:        Tech Lead    
       avatar:       https://via.placeholder.com/80x80
  
 
