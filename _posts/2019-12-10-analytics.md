@@ -1,7 +1,7 @@
 ---
 title: Google Analytics
-categories: [jekyll, features]
-author: evan
+categories: [features]
+author: 
 tags: 
 ---
 
