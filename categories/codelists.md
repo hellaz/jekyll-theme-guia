@@ -7,6 +7,7 @@ pagination:
   categories:
     values:
       - mediacms
+      - codelists
     matching: all
   # sort_field: 'title'
   # sort_reverse: false
