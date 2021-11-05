@@ -11,6 +11,10 @@ To enable Google Anaytics, add the following lines to your Jekyll site:
   google_analytics: UA-NNNNNNNN-N
 ```
 
-![image info](./images/header.jpg)
+##New Header
+1. new1
+2. new2
+
+![image info](/images/header.jpg)
 
 Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
