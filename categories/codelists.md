@@ -6,8 +6,7 @@ pagination:
   permalink: /:num/
   categories:
     values:
-      - setup
-      - basics
+      - mediacms
     matching: all
   # sort_field: 'title'
   # sort_reverse: false
