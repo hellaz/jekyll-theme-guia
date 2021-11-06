@@ -18,16 +18,5 @@ There are four alert styles:
 
 Add alerts to a post using the following includes:
 
-{% raw %}
-```yaml
-{% include alert.html style="primary" text="A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology." %}
-
-{% include alert.html style="success" text="A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology." %}
-
-{% include alert.html style="warning" text="A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology." %}
-
-{% include alert.html style="danger" text="A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology." %}
-```
-{% endraw %}
 
 
