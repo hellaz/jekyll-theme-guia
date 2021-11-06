@@ -34,7 +34,7 @@
       desc: A long video is split into smaller chapters 
       icon: code
 
-    - permalink: /chapters/splitter/
+    - permalink: /chapters/development/
       title: Video Splitter
       desc: Automated splitting of a long video
       icon: cog
