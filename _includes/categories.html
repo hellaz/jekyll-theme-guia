@@ -9,6 +9,9 @@
           <p class="uk-text-muted uk-text-center uk-text-lead uk-margin-small-top">{{ section.subtitle | escape }}</p>
         {% endif %}
       </div>
+<!--
+  categories display from home_categories.yml
+-->      
       {% if section.categories %}
         <div class="uk-child-width-1-2@m uk-grid-match uk-grid-small{% if section.title %} uk-margin-medium-top{% endif %}" data-uk-grid>
           {% for item in section.categories %}

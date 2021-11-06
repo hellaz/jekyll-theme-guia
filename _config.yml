@@ -69,7 +69,7 @@ header:
 
 # Default footer image settings
 footer:
-    copyright:      Deployed by <a href="https://dmi.systems">DMI Systems</a> in Madanapalle, India.
+    copyright: Deployed by <a href="https://dmi.systems">DMI Systems</a> in Madanapalle, India.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
