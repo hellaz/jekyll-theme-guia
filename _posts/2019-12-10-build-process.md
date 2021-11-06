@@ -1,8 +1,8 @@
 ---
 title: Build Process
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-categories: [mediacms, codelists]
-author: evan
+category: [mediacms]
+author: 
 ---
 
 ### Build process

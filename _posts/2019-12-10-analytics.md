@@ -1,6 +1,6 @@
 ---
 title: Google Analytics
-categories: [mediacms, codelists]
+category: [mediacms]
 author: 
 tags: 
 ---

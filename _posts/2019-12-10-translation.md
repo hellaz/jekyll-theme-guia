@@ -1,7 +1,7 @@
 ---
 title: Translating theme strings
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-categories: [setup, translation]
+category: [chapters]
 author: evan
 ---
 

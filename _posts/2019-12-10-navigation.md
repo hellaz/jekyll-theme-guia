@@ -2,7 +2,7 @@
 title: Navigation bar
 subtitle: This document covers the setup and options of theme feature described in the title
 author: sara
-categories: [setup, basics]
+category: [chapters]
 ---
 
 Set in the main navigation links in `_data/navigation_header.yml`:
