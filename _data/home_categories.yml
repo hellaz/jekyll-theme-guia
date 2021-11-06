@@ -6,7 +6,7 @@
 
     - permalink: /mediacms/codelists/
       title: Codelists
-      desc: A codelist is a list of valid code values for a variable. The purpose of a codelist is to ensure that data values comply with controlled terminology.
+      desc: the purpose of a codelist is to ensure that data values comply with controlled terminology
       icon: cog
 
     - permalink: /mediacms/metadata/
